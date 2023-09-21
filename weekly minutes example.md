@@ -1,21 +1,21 @@
 # Team Project Meeting (21st September 2023)
 
-## Present:
+### Present:
 - Jack
 - Calum
 - Mitchell
 - Anna
 
-## Apologies:
+### Apologies:
 - Leanne
 - Mark
 
-## Minutes:
+### Minutes:
 - Jack
 
 ---
 
-## What we discussed
+### What we discussed
 - Potential project ideas
 - Interest areas of team members
 - When, where and how to have meetings
@@ -23,7 +23,7 @@
 
 ---
 
-## What we decided
+### What we decided
 
 - More exploration is required to decide on a project.
 - Some of the team are interested in input/output applications.
@@ -38,7 +38,7 @@
 
 ---
 
-## Actions
+### Actions
 | Person | Action | Action By |
 | --- | --- | --- |
 | All | Research project ideas | 28/09/2023 |
@@ -50,13 +50,13 @@
 
 ---
 
-## Date of next meeting (28th September 2023)
+### Date of next meeting (28th September 2023)
 - Discuss project ideas.
 - Decide on method of creating documentation.
 - Discuss required deliverables and what development methodology we would like to use (Waterfall, Agile, ?)
 
-## Any other business
+### Any other business
 n/a
 
-## Other notes
+### Other notes
 Keep a note of sources as these will be useful for your first assignment.
