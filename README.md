@@ -57,15 +57,15 @@ gantt
     section Design
     Completed task            :done,    des1, 2023-09-25, 2d
     Active task               :active,  des2, 2023-09-27, 3d
-    Future task               :         des3, after des2, 2d
-    Future task 2             :         des4, after des3, 3d
+    Future task               :         des3, after des2, 3d
+    Future task 2             :         des4, after des3, 2d
 
     section Implementation
     Completed critical task             :crit, done, 2023-09-26, 72h
     Active critical task                :crit, active, after des1, 3d
-    Critical future task                :crit, 3d
-    Future task 3                       :2d
-    Future task 4                       :5d
+    Future task 3                       :after des3, 2d
+    Critical future task                :crit, after des4, 3d
+    Future task 4                       :after des4, 4d
     Implementation done                 :milestone, 2023-10-14, 0d
 
     section Documentation
