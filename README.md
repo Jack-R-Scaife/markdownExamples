@@ -56,21 +56,20 @@ gantt
 
     section Design
     Completed task            :done,    des1, 2023-09-25, 2d
-    Active task               :active,  des2, 2023-09-27, 2d
-    Future task               :         des3, after des2, 5d
-    Future task 2             :         des4, after des3, 5d
+    Active task               :active,  des2, 2023-09-27, 3d
+    Future task               :         des3, after des2, 2d
+    Future task 2             :         des4, after des3, 3d
 
     section Implementation
-    Completed critical task             :crit, done, 2023-10-10, 60h
+    Completed critical task             :crit, done, 2023-09-26, 72h
     Active critical task                :crit, active, after des1, 3d
-    Critical future task                :crit, 5d
-    Future task 3                       :3d
-    Future task 4                       :4d
-    Implementation done                 :milestone, 2023-10-20, 0d
+    Critical future task                :crit, 3d
+    Future task 3                       :2d
+    Future task 4                       :5d
+    Implementation done                 :milestone, 2023-10-14, 0d
 
     section Documentation
-    Future task 5                       :active, a1, after des1, 3d
-    Add gantt diagram to demo page      :after a1  , 4d
+    Final Task                          :crit, 2023-10-17, 3d
 ```
 
 ## Whole Examples
