@@ -46,14 +46,15 @@
 | All | List any Sensors, Arduinos, Raspberry Pi's you own that you are happy to use | 28/09/2023 |
 | Calum | Prepare examples / demo of github markdown | 28/09/2023 |
 | Jack | Invite Leanne to the discord server | 28/09/2023 |
-| Mitchell | Research web application (frameworks, APIs, etc) | 28/09/2023 |
+| Mitchell | Research web applications (frameworks, APIs, etc) | 28/09/2023 |
 
 ---
 
 ### Date of next meeting (28th September 2023)
 - Discuss project ideas.
 - Decide on method of creating documentation.
-- Discuss required deliverables and what development methodology we would like to use (Waterfall, Agile, ?)
+- Discuss required deliverables 
+- Discuss what development methodology we would like to use (Waterfall, Agile, ?)
 
 ### Any other business
 n/a
