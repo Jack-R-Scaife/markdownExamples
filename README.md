@@ -46,6 +46,33 @@ void main()
 }
 ```
 
+## Gantt Chart
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title       Adding GANTT diagram functionality to mermaid
+    excludes    weekends
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+
+    section Design
+    Completed task            :done,    des1, 2023-09-27, 2d
+    Active task               :active,  des2, 2023-09-30, 1d
+    Future task               :         des3, after des2, 5d
+    Future task 2             :         des4, after des3, 5d
+
+    section Implementation
+    Completed task in the critical line :crit, done, 2023-10-10,24h
+    Active Critical task                :crit, active, after des1, 3d
+    Future task in critical line        :crit, 5d
+    Future task 3                       :2d
+    Future task 4                       :1d
+    Implementation done                 :milestone, 2023-10-20, 0d
+
+    section Documentation
+    Future task 5                       :active, a1, after des1, 3d
+    Add gantt diagram to demo page      :after a1  , 20h
+```
+
 ## Whole Examples
 - [weekly minutes example](weekly%20minutes%20example.md)
 - [weekly log example](weekly%20log%20example.md)  
