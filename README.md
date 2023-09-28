@@ -18,9 +18,6 @@
      1. Nested
 3. Three
 
-## Checklists
-- [ ] One
-- [ ] Uncompleted
      - [ ] Nested
 - [x] Completed
 
